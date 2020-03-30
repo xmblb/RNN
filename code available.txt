@@ -1,0 +1,7 @@
+1. The codes can be used for academic purpose only. Please cite our paper in any publication
+that reports research using this codes and data.
+
+Wang, Y., Fang, Z., Wang, M., Peng, L., Hong, H., 2020. Comparative study 
+of landslide susceptibility mapping with different recurrent neural networks. 
+Computers & Geosciences, 138, 104445.
+
